@@ -1,4 +1,7 @@
-baseurl: '/'
+url: "https://societal-analytics-lab-nl.github.io" 
+remote_theme: zerostaticthemes/jekyll-serif-theme
+  
+baseurl: '/jekyll-serif-theme/'
 permalink: pretty
 title: 'Jekyll Serif'
 
