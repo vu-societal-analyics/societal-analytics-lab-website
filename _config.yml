@@ -3,15 +3,15 @@ remote_theme: zerostaticthemes/jekyll-serif-theme
   
 baseurl: '/jekyll-serif-theme/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Societal Analitics Lab'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
   mobile_height: "32px"
   mobile_width: "32px"
   desktop: "images/logo/logo.svg"
-  desktop_height: "64px"
-  desktop_width: "240px"
+  desktop_height: "96px"
+  desktop_width: "360px"
 
 home: 
   limit_services: 6
