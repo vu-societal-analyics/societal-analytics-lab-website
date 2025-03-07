@@ -4,7 +4,8 @@ date: 2019-05-18T12:33:46+10:00
 weight: 7
 ---
 
-# Support for grant proposals with a computational component
+Support for grant proposals with a computational component.
+<!--more-->
 
 Are you (planning on) writing a grant proposal that involves a computational component? Please reach out if you feel that the Societal Analytics Lab could help strengthen your proposal.
 
