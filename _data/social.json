@@ -1,33 +1,17 @@
 [
   {
     "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
+    "link": "https://github.com/societal-analytics-lab-nl",
     "image": "images/social/github.svg"
   },
   {
-    "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
-    "image": "images/social/twitter.svg"
-  },
-  {
-      "name": "Facebook",
-      "link": "https://facebook.com",
-      "image": "images/social/facebook.svg"
+    "name": "BlueSky",
+    "link": "https://bsky.app/profile/societal-analytics.nl",
+    "image": "images/social/bsky.svg"
   },
   {
       "name": "Email",
-      "link": "mailto:ekyllserif@example.com ",
+      "link": "mailto:analytics-lab.fsw@vu.nl",
       "image": "images/social/email.svg"
-  },
-  {
-      "name": "Instagram",
-      "link": "https://instagram.com",
-      "image": "images/social/instagram.svg"
-  },
-  {
-      "name": "Discord",
-      "link": "https://discord.com",
-      "image": "images/social/discord.svg"
   }
-
 ]
