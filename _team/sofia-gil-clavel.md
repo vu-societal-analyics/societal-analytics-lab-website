@@ -4,7 +4,8 @@ date: 2018-12-20T13:44:30+10:00
 image: "https://research.vu.nl/files-asset/369047881/SofiaGilClavel.jpg?w=160&f=webp"
 jobtitle: "Lab Manager/Researcher"
 linkedinurl: ""
-weight: 1
+promoted: true
+weight: 3
 ---
 
 Hi! I am a Researcher, Research Engineer, and Lab Manager at the Societal Analytics Lab
