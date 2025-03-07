@@ -4,13 +4,9 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+If you're a researcher of the VU Faculty of Social Sciences, there's always room for you!
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+If you think the lab is relevant for your own work, want us to keep you updated, or intend to contribute to the community, please consider becoming a lab member. For this, you can fill out this form: https://forms.office.com/e/8Bgd2YsasJ.
+
+For more information, inquiries and questions, please contact us at [analytics-lab.fsw@vu.nl](mailto:analytics-lab.fsw@vu.nl).
+
