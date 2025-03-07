@@ -2,37 +2,22 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="194.60475mm"
-   height="157.86737mm"
-   viewBox="0 0 194.60475 157.86737"
+   width="210mm"
+   height="200mm"
+   viewBox="0 0 210 200"
    version="1.1"
    id="svg1"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm" />
   <defs
      id="defs1" />
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-6.9263922,-82.256689)">
+     id="layer1">
     <g
        transform="matrix(0.44261882,0,0,0.44261882,-91.851374,2.9541465)"
        id="g4">
       <path
-         d="m 488,180 84,41.76 V 330.24 L 488,372 404,330.24 V 221.76 Z"
+         d="m 484.36803,42.893172 84,41.76 V 193.13317 l -84,41.76 -84,-41.76 V 84.653172 Z"
          stroke="#ffffff"
          stroke-width="1.66667"
          stroke-linejoin="round"
@@ -46,18 +31,18 @@
          font-weight="400"
          font-size="17px"
          id="text1"
-         x="428.90607"
-         y="271">Computational</text>
+         x="425.27411"
+         y="133.89317">Computational</text>
       <text
          fill="#ffffff"
          font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
          font-weight="400"
          font-size="17px"
          id="text2"
-         x="433.81906"
-         y="290">Infrastructure</text>
+         x="430.1871"
+         y="152.89317">Infrastructure</text>
       <path
-         d="M 307.5,180 391,221.76 V 330.24 L 307.5,372 224,330.24 V 221.76 Z"
+         d="m 303.86803,42.893172 83.5,41.76 V 193.13317 l -83.5,41.76 -83.5,-41.76 V 84.653172 Z"
          stroke="#ffffff"
          stroke-width="1.66667"
          stroke-linejoin="round"
@@ -66,7 +51,7 @@
          fill-rule="evenodd"
          id="path2" />
       <path
-         d="M 397.5,343 481,384.76 V 493.24 L 397.5,535 314,493.24 V 384.76 Z"
+         d="m 393.86803,205.89317 83.5,41.76 v 108.48 l -83.5,41.76 -83.5,-41.76 v -108.48 z"
          stroke="#ffffff"
          stroke-width="1.66667"
          stroke-linejoin="round"
@@ -80,18 +65,18 @@
          font-weight="400"
          font-size="17px"
          id="text3"
-         x="337.2811"
-         y="432.18402">Computational</text>
+         x="333.64914"
+         y="295.07718">Computational</text>
       <text
          fill="#ffffff"
          font-family="'Tw Cen MT', 'Tw Cen MT_MSFontService', sans-serif"
          font-weight="400"
          font-size="17px"
          id="text4"
-         x="349.04709"
-         y="451.18402">Knowledge</text>
+         x="345.41513"
+         y="314.07718">Knowledge</text>
       <path
-         d="m 578,343 84,41.76 V 493.24 L 578,535 494,493.24 V 384.76 Z"
+         d="m 574.36803,205.89317 84,41.76 v 108.48 l -84,41.76 -84,-41.76 v -108.48 z"
          stroke="#ffffff"
          stroke-width="1.66667"
          stroke-linejoin="round"
@@ -101,7 +86,7 @@
          id="path4" />
     </g>
     <g
-       transform="matrix(0.44261882,0,0,0.44261882,-92.088692,4.9884815)"
+       transform="matrix(0.44261882,0,0,0.44261882,-93.69627,-55.697581)"
        id="g2"
        style="fill:#ffffff">
       <path
@@ -120,7 +105,7 @@
          style="fill:#ffffff" />
     </g>
     <g
-       transform="matrix(0.44261882,0,0,0.44261882,-91.742572,1.4415525)"
+       transform="matrix(0.44261882,0,0,0.44261882,-93.35015,-59.24451)"
        id="g3"
        style="fill:#ffffff">
       <path
