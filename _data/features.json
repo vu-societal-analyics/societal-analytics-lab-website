@@ -1,27 +1,36 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Infrastructure",
+    "description": "Increase VU research infrastructure and its transparency.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/noun_infrastructure.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Innovation",
+    "description": "Foster methodological innovation.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/noun_knowledge.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Open Science",
+    "description": "Increase Open Science through better reproducibility and transparency .",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/noun_openscience.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Interdisciplinary",
+    "description": "Increase interdisciplinary research teams.",
+    "image": {
+      "url": "images/features/noun_groups.svg",
       "width": 80,
       "height": 80
     }
