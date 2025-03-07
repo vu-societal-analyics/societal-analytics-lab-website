@@ -1,10 +1,10 @@
 ---
-title: "Business Advisory"
+title: "Tools and Resources"
 date: 2018-12-28T15:14:39+10:00
 weight: 4
 ---
 
-Business advisory is the final tier of the accounting pyramid.
+The Societal Analytics Lab offers a range of services for VU FSW researchers, and is involved in the development and maintenance of various digital infrastructure projects.
 <!--more-->
 
 Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.
