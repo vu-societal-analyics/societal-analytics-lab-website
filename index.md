@@ -12,9 +12,12 @@ show_call_box: true
 
 Hey there! Welcome aboard the Societal Analytics Lab at the Faculty of Social Sciences of Vrije Universiteit Amsterdam. Here the world of social behavior meets computational techniques. As we find ourselves in an increasingly digital society, the way we study social dynamics is shifting. No longer are we solely reliant on traditional methods; instead, we dive into the intriguing digital imprints left by everyday activities - from the casual tweet to the tracking of health and commercial behaviors.
 
+<!--more-->
+
 In the Societal Analytics Lab, we want to make sense of and improve our society by facilitating the use of digital traces in finding the answer to complex social-scientific questions.
 
 Think of it this way: the Societal Analytics Lab is like your friendly neighborhood guide in the vast realm of digital social dynamics. Whether you're a computational social scientist or just beginning your journey, we're here to support and equip you with the right tools, data, and skills.
+
 
 # We're here for you to:
 
