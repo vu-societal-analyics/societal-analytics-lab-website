@@ -1,7 +1,6 @@
 ---
 title: "Constrained by computing power? We can help you!"
-date: 2018-11-18T12:33:46+10:00
-weight: 2
+date: 2024-11-18T12:33:46+10:00
 ---
 
 How about just asking people to donate their digital trace data?
