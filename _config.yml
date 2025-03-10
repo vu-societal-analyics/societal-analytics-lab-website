@@ -22,7 +22,7 @@ collections:
     sort_by: weight
   team:
     output: true
-  posts:
+  blogs:
     output: true
     sort_by: date
     
@@ -37,7 +37,12 @@ defaults:
       type: "team"
     values:
       layout: "team"
-
+  - scope:
+      path: ""
+      type: "blogs"
+    values:
+      layout: "blog"
+      
 sass:
   style: compressed # possible values: nested expanded compact compressed
 
