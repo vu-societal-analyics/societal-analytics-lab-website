@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-The newly established Societal Analytics Lab aims to be the faculty’s first point of contact for those interested in applying computational techniques in their research on societal issues.
+The Societal Analytics Lab aims to be the faculty’s first point of contact for those interested in applying computational methods in their social science research.
 
 ![The Lab](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
