@@ -1,6 +1,6 @@
 ---
 title: Blog
-layout: blog
+layout: blogs
 description: Blog
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
