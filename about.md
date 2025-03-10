@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-The Societal Analytics Lab aims to be the faculty’s first point of contact for those interested in applying computational methods in their social science research.
+The Societal Analytics Lab aims to be the first point of contact for those interested in applying computational methods in their social science research.
 
 ![The Lab](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
@@ -32,8 +32,6 @@ We want to foster research that fits the digital society that we live in, specif
 
 
 ## What we do:
-
-* Data Collection: from social media footprints to other digital traces, we collect and archive them for easy access.
 
 * Tools & Resources: whether it's software for manual annotation or GPU-driven computing for automatic text/image processing, we've got you covered.
 

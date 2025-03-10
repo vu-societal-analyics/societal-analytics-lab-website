@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services built for Social Scientists 
+# For Social Scientists by Computational Social Scientists
 
-The Societal Analytics Lab offers a range of services for VU FSW researchers, and is involved in the development and maintenance of various digital infrastructure projects.
+The Societal Analytics Lab offers a range of services for VU FSW researchers, and we are involved in the development and maintenance of various digital infrastructure projects.
