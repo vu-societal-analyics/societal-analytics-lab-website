@@ -22,7 +22,10 @@ collections:
     sort_by: weight
   team:
     output: true
-
+  posts:
+    output: true
+    sort_by: weight
+    
 defaults:
   - scope:
       path: ""
@@ -34,12 +37,12 @@ defaults:
       type: "team"
     values:
       layout: "team"
-  - scope: # Sofia added starts
+  - scope: 
       path: ""
       type: "posts"
     values:
       layout: "post"
-# Sofia added ends
+
 sass:
   style: compressed # possible values: nested expanded compact compressed
 
