@@ -1,7 +1,7 @@
 ---
-title: Blog Posts
+title: Posts
 layout: posts
-description: Blog Posts
+description: Posts
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true

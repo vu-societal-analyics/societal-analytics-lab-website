@@ -12,5 +12,5 @@ show_call_box: true
 
 Hey there! Welcome! 
 
-In the Societal Analytics Lab, we want to make sense of and improve our society by facilitating the use of computational resources/knowledge in finding the answer to complex social-scientific questions.
+The Societal Analytics Lab aims to facilitate the use of computational resources by helping social scientist acquire infrastructure and knowledge.
 
