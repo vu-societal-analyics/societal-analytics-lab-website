@@ -14,10 +14,10 @@ Source: This image was created with the assistance of DALL·E 3, in January 22, 
     -   [High Performance Computer](#high-performance-computer)
 -   [Insufficient storage memory](#insufficient-storage-memory)
     -   [JupyterHub](#jupyterhub-1)
-        -   [a You can create a directory in \`\`/local/data/<VUNetID>’’.](#a-you-can-create-a-directory-in-localdata.)
-        -   [b Place your dataset there using SSH/SFTP.](#b-place-your-dataset-there-using-sshsftp.)
+        -   [a You can create a directory in local-data](#a-you-can-create-a-directory-in-local-data)
+        -   [b Place your dataset there using SSH/SFTP](#b-place-your-dataset-there-using-sshsftp)
         -   [c Make sure that there is enough space](#c-make-sure-that-there-is-enough-space)
-        -   [d Every first day of the month, the directories are moved to /local/.old](#d-every-first-day-of-the-month-the-directories-are-moved-to-local.old)
+        -   [d Every first day of the month, the directories are moved to local-old](#d-every-first-day-of-the-month-the-directories-are-moved-to-local-old)
     -   [High Performance Computer](#high-performance-computer-1)
 -   [Lack of GPUs](#lack-of-gpus)
     -   [High Performance Computer](#high-performance-computer-2)
@@ -103,7 +103,7 @@ If after reading IT’s instructions you have more questions than answers,
 please do not worry, we will translate Figure 6 for you. For this, let
 us turn IT instructions into steps:
 
-#### a You can create a directory in ``/local/data/<VUNetID>''.
+#### a You can create a directory in local-data
 
 Assuming you already opened one of the three servers and chose one of
 the many available environments (Figure 2 and 3), then the first step is
@@ -121,7 +121,7 @@ shows how to do it using Rstudio.
 
 **Figure 7:** Checking data folder using Rstudio.
 
-#### b Place your dataset there using SSH/SFTP.
+#### b Place your dataset there using SSH/SFTP
 
 There are two types of data that you can store in there: data you
 derived, and external data. To store the data you derived from running
@@ -226,7 +226,7 @@ others. So, if you are not using the data anymore, then delete it.
 
 **Figure 9:** Example of values returned by the command `df -h /local/data`.
 
-#### d Every first day of the month, the directories are moved to /local/.old
+#### d Every first day of the month, the directories are moved to local-old
 
 Finally, according to IT (Figure 6):
 
