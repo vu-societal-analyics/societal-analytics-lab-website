@@ -8,6 +8,9 @@ promoted: true
 weight: 2
 ---
 
-Kasper Welbers is an associate professor at the department of communication science. He is a co-Director of The Societal Analytics Lab at the Vrije Universiteit Amsterdam, Vice Chair of the computational methods division at the International Communication Association, and scientific representative of the OPINION COST Action network. 
+Kasper Welbers – Associate professor at the department of communication science. 
 
-You can find more info about Kasper Welbers [here](https://research.vu.nl/en/persons/kasper-welbers).
+
+I am a co-Director of The Societal Analytics Lab at the Vrije Universiteit Amsterdam, Vice Chair of the computational methods division at the International Communication Association, and scientific representative of the OPINION COST Action network. 
+
+You can find more info about me [here](https://research.vu.nl/en/persons/kasper-welbers).
