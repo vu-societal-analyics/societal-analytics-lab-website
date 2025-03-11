@@ -14,10 +14,10 @@ Source: This image was created with the assistance of DALL·E 3, in January 22, 
     -   [High Performance Computer](#high-performance-computer)
 -   [Insufficient storage memory](#insufficient-storage-memory)
     -   [JupyterHub](#jupyterhub-1)
-        -   [a. You can create a directory in “/local/data/<VUNetID>”.](#a.-you-can-create-a-directory-in-localdata.)
-        -   [b. Place your dataset there using SSH/SFTP.](#b.-place-your-dataset-there-using-sshsftp.)
-        -   [c. Make sure that there is enough space](#c.-make-sure-that-there-is-enough-space)
-        -   [d. Every first day of the month, the directories are moved to /local/.old](#d.-every-first-day-of-the-month-the-directories-are-moved-to-local.old)
+        -   [a You can create a directory in \`\`/local/data/<VUNetID>’’.](#a-you-can-create-a-directory-in-localdata.)
+        -   [b Place your dataset there using SSH/SFTP.](#b-place-your-dataset-there-using-sshsftp.)
+        -   [c Make sure that there is enough space](#c-make-sure-that-there-is-enough-space)
+        -   [d Every first day of the month, the directories are moved to /local/.old](#d-every-first-day-of-the-month-the-directories-are-moved-to-local.old)
     -   [High Performance Computer](#high-performance-computer-1)
 -   [Lack of GPUs](#lack-of-gpus)
     -   [High Performance Computer](#high-performance-computer-2)
@@ -103,7 +103,7 @@ If after reading IT’s instructions you have more questions than answers,
 please do not worry, we will translate Figure 6 for you. For this, let
 us turn IT instructions into steps:
 
-#### a. You can create a directory in ``/local/data/<VUNetID>''.
+#### a You can create a directory in ``/local/data/<VUNetID>''.
 
 Assuming you already opened one of the three servers and chose one of
 the many available environments (Figure 2 and 3), then the first step is
@@ -121,7 +121,7 @@ shows how to do it using Rstudio.
 
 **Figure 7:** Checking data folder using Rstudio.
 
-#### b. Place your dataset there using SSH/SFTP.
+#### b Place your dataset there using SSH/SFTP.
 
 There are two types of data that you can store in there: data you
 derived, and external data. To store the data you derived from running
@@ -148,9 +148,9 @@ In this example, I will use the software
 [WinSCP](https://winscp.net/eng/index.php), and I will focus on Windows
 users. The implementation should also work for Mac users, otherwise, you
 can find some other alternatives
-[here](https://www.ssh.com/academy/ssh/sftp-ssh-file-transfer-protocol). To place the data using the software, we need to follow two steps: (a) create the connection between your computer and JupyterHub server, and (b) upload the files. 
+[here](https://www.ssh.com/academy/ssh/sftp-ssh-file-transfer-protocol). To place the data using the software, we need to follow two steps: (i) create the connection between your computer and JupyterHub server, and (ii) upload the files. 
 
-** (a) Create the connection between your computer and one of the JupyterHub servers **
+**(i) Create the connection between your computer and one of the JupyterHub servers**
 
 Open WinSCP, assuming you already downloaded and installed it.
 
@@ -189,7 +189,7 @@ After pressing “Login” two new windows will appear sequentially. There you m
 ![Figure a.9](/images/blog/computing_power/Fig8_a9_computing_power.png)
 
 
-** (b) Upload the files **
+**(ii) Upload the files**
 
 Once you logged in using your credentials, you will see a window with the files stored in your computer (left) and the server (right).
 
@@ -213,7 +213,7 @@ The “Upload” window will pup op. There you can confirm the directory where t
 
 That is all! Now your data is also in the JupyerHub server!
 
-#### c. Make sure that there is enough space
+#### c Make sure that there is enough space
 
 Before uploading your data to the servers, you need to make sure you
 have enough space. For this, you just need to open the Terminal (Figure
@@ -226,7 +226,7 @@ others. So, if you are not using the data anymore, then delete it.
 
 **Figure 9:** Example of values returned by the command `df -h /local/data`.
 
-#### d. Every first day of the month, the directories are moved to /local/.old
+#### d Every first day of the month, the directories are moved to /local/.old
 
 Finally, according to IT (Figure 6):
 
