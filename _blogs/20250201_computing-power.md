@@ -6,6 +6,7 @@ date: 2024-11-18T12:33:46+10:00
 Written by Sofia Gil-Clavel.
 
 ![Struggling Scientist](/images/blog/computing_power/ComputationalNeeds2_DalleImage.svg)
+
 Source: This image was created with the assistance of DALL·E 3, in January 22, 2025.
 
 -   [Index](#constrained-by-computing-power-we-can-help-you)
