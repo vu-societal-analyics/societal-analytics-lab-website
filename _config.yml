@@ -3,7 +3,7 @@ remote_theme: zerostaticthemes/jekyll-serif-theme
   
 baseurl: '/jekyll-serif-theme/'
 permalink: pretty
-title: 'Societal Analitics Lab'
+title: 'Societal Analytics Lab'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
