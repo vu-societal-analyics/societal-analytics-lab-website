@@ -5,7 +5,7 @@ date: 2024-11-18T12:33:46+10:00
 
 Written by Sofia Gil-Clavel.
 
-![Struggling Scientist]("\images\blog\computing_power\ComputationalNeeds2_DalleImage.svg")
+![Struggling Scientist](/images/blog/computing_power/ComputationalNeeds2_DalleImage.svg)
 
 
 -   [Constrained by computing power? We can help
