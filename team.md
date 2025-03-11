@@ -12,3 +12,5 @@ show_call_box: true
 # Meet The Team
 
 We are a group of Computational Social Scientists!
+
+We aim to facilitate the use of computational resources by helping social scientist acquire infrastructure and knowledge. Feel free to reach out to us!
