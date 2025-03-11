@@ -39,23 +39,23 @@ According to IT:
 
 JupyterHub provides users with up to 260 GB of RAM. VU IT provides three possible servers to use (Figure 2).
 
-![Figure 2: JupyterHub servers run by VU IT for Research.](/images/blog/computing_power/Fig2_computing_power.svg)
+![Figure 2: JupyterHub servers run by VU IT for Research.](/images/blog/computing_power/Fig2_computing_power.png)
 
 **Figure 2:** JupyterHub servers run by VU IT for Research. Screenshot from [https://hub.compute.vu.nl/](https://hub.compute.vu.nl/) taken on January 21st, 2025.
 
 In the JupyterHub servers, there are already some popular environments running, such as Python, R/Rstudio, and MATLAB, as well as some environments used by students following a course (Figure 3). So, users just need to open and access one of the three running JupyterHub servers and start using their favorite software.
 
-![Figure 3: Selecting an environment in JupyterHub.](/images/blog/computing_power/Fig3_computing_power.svg)
+![Figure 3: Selecting an environment in JupyterHub.](/images/blog/computing_power/Fig3_computing_power.png)
 
 **Figure 3:** Selecting an environment in JupyterHub.
 
 Once a server and environment are chosen then you can access specific software (Figure 4). Regardless of the environment, you will always have access to the Terminal. The Terminal is under the category “Other” (Figure 4). From the Terminal, it is possible to get more information about the server CPU by tipping the command `lscpu` in the terminal (Figure 5).
 
-![Figure 4: Accessing software based on the environment.](/images/blog/computing_power/Fig4_computing_power.svg)
+![Figure 4: Accessing software based on the environment.](/images/blog/computing_power/Fig4_computing_power.png)
 
 **Figure 4:** Accessing software based on the environment.
 
-![Figure 5: Accessing software based on the environment.](/images/blog/computing_power/Fig5_computing_power.svg)
+![Figure 5: Accessing software based on the environment.](/images/blog/computing_power/Fig5_computing_power.png)
 
 **Figure 5:** Example of the CPU information of the system.
 
@@ -94,9 +94,9 @@ and (b) the High Performance Computer.
 By default, JupyterHub gives users only 3 GB of storage memory, but
 (according to IT) this can be increased (Figure 6).
 
-&lt;Figure 6 about here: Screenshot of how to increase your JupyterHub
-memory. Screenshot taken on Jan. 21st, 2025, from
-<https://hub.compute.vu.nl/>.&gt;
+![Figure 6: Screenshot of how to increase your JupyterHub memory.](/images/blog/computing_power/Fig6_computing_power.png)
+
+**Figure 6:** Screenshot of how to increase your JupyterHub memory. Screenshot taken on Jan. 21st, 2025, from [https://hub.compute.vu.nl/](https://hub.compute.vu.nl/).
 
 If after reading IT’s instructions you have more questions than answers,
 please do not worry, we will translate Figure 6 for you. For this, let
@@ -108,9 +108,9 @@ Assuming you already opened one of the three servers and chose one of
 the many available environments (Figure 2 and 3), then the first step is
 to create the directory `/local/data/<VUNetID>`. For this, you need to
 open the Terminal (Figure 4). Once in the Terminal, you need to type the
-command:
+command: `mkdir “/local/data/<VUNetID>”`
 
-`mkdir “/local/data/<VUNetID>”`
+![Screenshot mkdir.](/images/blog/computing_power/Fig6_1_computing_power.png)
 
 You can verify that your folder exists by opening your favorite software
 and changing the working directory to the one storing the data. Figure 7
