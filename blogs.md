@@ -13,8 +13,8 @@ Here you can find useful information about different important matters.
 
 Every month, we will upload posts about: 
 
-How to use VU IT infrastructure
+ How to use VU IT infrastructure
 
-Good-to-know information regarding our tools
+ Good-to-know information regarding our tools
 
-And more! 
+ And more! 
