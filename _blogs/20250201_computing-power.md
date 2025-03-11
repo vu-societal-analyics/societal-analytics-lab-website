@@ -69,7 +69,7 @@ If you need more memory and computing power, then you can use the VU High Perfor
 
 ## Insufficient storage memory
 
-[Back to Index](#helping-lab-members-to-access-hardware-and-software)
+[Back to top](#helping-lab-members-to-access-hardware-and-software)
 
 The second commonly faced problem is lack of storage memory. This
 problem is common among people aiming to store large data sets.
@@ -96,6 +96,8 @@ offers this service for both aforementioned solutions: (a) JupyterHub,
 and (b) the High Performance Computer.
 
 ### JupyterHub
+
+[Back to top](#helping-lab-members-to-access-hardware-and-software)
 
 By default, JupyterHub gives users only 3 GB of storage memory, but
 (according to IT) this can be increased (Figure 6).
@@ -149,6 +151,8 @@ terminal in the JupyterHub webpage (Figure 8).
 
 ##### **SSH/SFTP using a software**
 
+[Back to top](#helping-lab-members-to-access-hardware-and-software)
+
 In this example, I will use the software
 [WinSCP](https://winscp.net/eng/index.php), and I will focus on Windows
 users. The implementation should also work for Mac users, otherwise, you
@@ -196,6 +200,8 @@ After pressing “Login” two new windows will appear sequentially. There you m
 
 **(ii) Upload the files**
 
+[Back to top](#helping-lab-members-to-access-hardware-and-software)
+
 Once you logged in using your credentials, you will see a window with the files stored in your computer (left) and the server (right).
 
 ![Figure b.1](/images/blog/computing_power/Fig8_b1_computing_power.png)
@@ -220,6 +226,8 @@ That is all! Now your data is also in the JupyerHub server!
 
 #### c Make sure that there is enough space
 
+[Back to top](#helping-lab-members-to-access-hardware-and-software)
+
 Before uploading your data to the servers, you need to make sure you
 have enough space. For this, you just need to open the Terminal (Figure
 4) and type `df -h /local/data`. This command will show you how much
@@ -232,6 +240,8 @@ others. So, if you are not using the data anymore, then delete it.
 **Figure 9:** Example of values returned by the command `df -h /local/data`.
 
 #### d Every first day of the month, the directories are moved to local-old
+
+[Back to top](#helping-lab-members-to-access-hardware-and-software)
 
 Finally, according to IT (Figure 6):
 
@@ -250,6 +260,8 @@ back to “/local/data/<VUNetID>”. The command is:
 \[Coming soon\]
 
 ## Lack of GPUs
+
+[Back to top](#helping-lab-members-to-access-hardware-and-software)
 
 A GPU (Graphics Processing Unit) is a specialized electronic component
 initially developed to accelerate image and video rendering. Given their
@@ -281,3 +293,6 @@ can request access to the High Performance Computer
 ### Computing server of the Societal Analytics Lab
 
 \[Coming soon\]
+
+
+[Back to top](#helping-lab-members-to-access-hardware-and-software)
