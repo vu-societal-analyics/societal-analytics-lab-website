@@ -147,9 +147,70 @@ In this example, I will use the software
 [WinSCP](https://winscp.net/eng/index.php), and I will focus on Windows
 users. The implementation should also work for Mac users, otherwise, you
 can find some other alternatives
-[here](https://www.ssh.com/academy/ssh/sftp-ssh-file-transfer-protocol).
+[here](https://www.ssh.com/academy/ssh/sftp-ssh-file-transfer-protocol). To place the data using the software, we need to follow two steps: (a) create the connection between your computer and JupyterHub server, and (b) upload the files. 
 
-\[Coming soon\]
+** (a) Create the connection between your computer and one of the JupyterHub servers **
+
+Open WinSCP, assuming you already downloaded and installed it.
+
+![Figure a.1](/images/blog/computing_power/Fig8_a1_computing_power.png)
+
+To establish a connection between your computer and JupyterHub server go to “Tabs/Sites/Site Manager...”.
+
+![Figure a.2](/images/blog/computing_power/Fig8_a2_computing_power.png)
+
+This will open the “Login” window.
+
+![Figure a.3](/images/blog/computing_power/Fig8_a3_computing_power.png)
+
+In the “Login” window, press “New Site” and add the information that IT provided. Remember that the number in the “Host name” can be replaced with either 1, 2, or 3, depending on the JupyterHub you are using. Then, press “Save”.
+
+![Figure a.4](/images/blog/computing_power/Fig8_a4_computing_power.png)
+
+After you pressed “Save”, a new window will pop up. There, you can change the name of the site or leave it as it is. Press “OK” when you are done.
+
+![Figure a.5](/images/blog/computing_power/Fig8_a5_computing_power.png)
+
+IMPORTANT: If you are working outside VU, then, you need to proxy your connection through the ssh.data.vu.nl stepstone server. For this, in the “Login” window, press the button “Advanced...” and add the information.
+
+![Figure a.6](/images/blog/computing_power/Fig8_a6_computing_power.png)
+
+Now that the site is saved, you can connect just by clicking on “New Tab”
+
+![Figure a.7](/images/blog/computing_power/Fig8_a7_computing_power.png)
+
+This will open the “Login” window. There you can choose the site you want to connect to and then “Login”.
+
+![Figure a.8](/images/blog/computing_power/Fig8_a8_computing_power.png)
+
+After pressing “Login” two new windows will appear sequentially. There you must add your Username and Password.
+
+![Figure a.9](/images/blog/computing_power/Fig8_a9_computing_power.png)
+
+
+** (b) Upload the files **
+
+Once you logged in using your credentials, you will see a window with the files stored in your computer (left) and the server (right).
+
+![Figure b.1](/images/blog/computing_power/Fig8_b1_computing_power.png)
+
+To change the server directory to the data folder, you need to click on “Open Directory/ Bookmark...”
+
+![Figure b.2](/images/blog/computing_power/Fig8_b2_computing_power.png)
+
+There, change the directory to /local/data/\<VUNetID\> and press “OK”.
+
+![Figure b.3](/images/blog/computing_power/Fig8_b3_computing_power.png)
+
+Now, you just need to select the data/files you want to upload and press “Upload”.
+
+![Figure b.4](/images/blog/computing_power/Fig8_b4_computing_power.png)
+
+The “Upload” window will pup op. There you can confirm the directory where the data/files will be uploaded. Press “OK” if everything is correct.
+
+![Figure b.5](/images/blog/computing_power/Fig8_b5_computing_power.png)
+
+That is all! Now your data is also in the JupyerHub server!
 
 #### c. Make sure that there is enough space
 
@@ -160,10 +221,11 @@ space is available, then you can judge whether this is more than the
 size of your dataset (Figure 9). Remember that this space is shared with
 others. So, if you are not using the data anymore, then delete it.
 
-&lt;Figure 9 about here: Example of values returned by the command
-`df -h /local/data`.&gt;
+![Figure 9: Example of values returned by the command.](/images/blog/computing_power/Fig9_computing_power.png)
 
-#### d. Every first day of the month, the directories are moved to /local/.old
+**Figure 9:** Example of values returned by the command `df -h /local/data`.
+
+#### d. Every first day of the month, the directories are moved to /local/.old
 
 Finally, according to IT (Figure 6):
 
