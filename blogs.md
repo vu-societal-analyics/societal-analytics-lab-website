@@ -11,7 +11,4 @@ intro_image_hide_on_mobile: true
 
 Here you can find useful information about different important matters. 
 
-Every month, we will upload posts about: 
-
-* How to use VU IT infrastructure
-* Some good-to-know information regarding our tools ans resources
+Every month, we will upload posts about: how to use VU IT infrastructure, some good-to-know information regarding our tools, and more! 
