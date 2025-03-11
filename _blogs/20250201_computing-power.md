@@ -3,6 +3,11 @@ title: "Constrained by computing power? We can help you!"
 date: 2024-11-18T12:33:46+10:00
 ---
 
+Written by Sofia Gil-Clavel.
+
+![Struggling Scientist](https://images.unsplash.com/vector-1741203969096-deda346274e8?q=80&w=2050&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+
 -   [Constrained by computing power? We can help
     you!](#constrained-by-computing-power-we-can-help-you)
     -   [1) Insufficient RAM](#insufficient-ram)
@@ -16,9 +21,6 @@ date: 2024-11-18T12:33:46+10:00
         -   [Computing server of the Societal Analytics
             Lab](#computing-server-of-the-societal-analytics-lab)
 
-# Constrained by computing power? We can help you!
-
-Written by Sofia Gil-Clavel.
 
 &lt;Figure 1 about here: Source: This image was created with the assistance of DALL·E 3, in January 22, 2025.&gt;
 
