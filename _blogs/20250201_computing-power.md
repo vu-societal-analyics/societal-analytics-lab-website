@@ -116,7 +116,9 @@ You can verify that your folder exists by opening your favorite software
 and changing the working directory to the one storing the data. Figure 7
 shows how to do it using Rstudio.
 
-&lt;Figure 7 about here: Checking data folder using Rstudio.&gt;
+![Figure 7: Checking data folder using Rstudio.](/images/blog/computing_power/Fig7_computing_power.png)
+
+**Figure 7:** Checking data folder using Rstudio.
 
 #### b. Place your dataset there using SSH/SFTP.
 
@@ -130,16 +132,16 @@ computer and the JupyterHub server. This can be done using your computer
 terminal or through a software (more info
 [here](https://www.ssh.com/academy/ssh/sftp-ssh-file-transfer-protocol)).
 
-<u>**SSH/SFTP via the terminal**</u>
+##### **SSH/SFTP via the terminal**
 
 IT for Research provides information on how to transfer the files via
 terminal in the JupyterHub webpage (Figure 8).
 
-&lt;Figure 8 about here: Screenshot of IT for research explanation on
-how to transfer files using the terminal. Source:
-<https://hub.compute.vu.nl/>, accessed on January 21st, 2025.&gt;
+![Figure 8: Checking data folder using Rstudio.](/images/blog/computing_power/Fig8_computing_power.png)
 
-<u>**SSH/SFTP using a software**</u>
+**Figure 8:** Screenshot of IT for research explanation on how to transfer files using the terminal. Source: [https://hub.compute.vu.nl/](https://hub.compute.vu.nl/), accessed on January 21st, 2025.
+
+##### **SSH/SFTP using a software**
 
 In this example, I will use the software
 [WinSCP](https://winscp.net/eng/index.php), and I will focus on Windows
@@ -149,7 +151,7 @@ can find some other alternatives
 
 \[Coming soon\]
 
-#### c. Make sure that there is enough space
+#### c. Make sure that there is enough space
 
 Before uploading your data to the servers, you need to make sure you
 have enough space. For this, you just need to open the Terminal (Figure
