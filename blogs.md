@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Blog Posts 
 
-Here you can find useful information about xxx...
+Here you can find useful information about how to use VU IT infrastructure.
