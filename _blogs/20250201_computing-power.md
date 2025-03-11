@@ -5,7 +5,7 @@ date: 2024-11-18T12:33:46+10:00
 
 Written by Sofia Gil-Clavel.
 
-![Struggling Scientist](https://images.unsplash.com/vector-1741203969096-deda346274e8?q=80&w=2050&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Struggling Scientist]("\images\blog\computing_power\ComputationalNeeds2_DalleImage.svg")
 
 
 -   [Constrained by computing power? We can help
@@ -28,16 +28,7 @@ The [Societal Analytics Lab](https://www.societal-analytics.nl/) works together 
 
 ## 1) Insufficient RAM
 
-According to our last survey, researchers commonly report insufficient
-RAM as something that constraints their work. Many desktop and laptop
-computers are ill equipped to open and handle large data sets when using
-common statistical software. Researchers can run into trouble when their
-computers need to perform some computing that could increase the size of
-the data stored in RAM. You may recognize this error from those times
-when your R session ended with the message “R Session Aborted”. At VU,
-IT gives researchers access to two different computing servers that
-offer plenty of RAM memory: (a) JupyterHub (up to 260 GB), and (b) the
-High Performance Computer (up to 240 GB).
+According to our last survey, researchers commonly report insufficient RAM as something that constraints their work. Many desktop and laptop computers are ill equipped to open and handle large data sets when using common statistical software. Researchers can run into trouble when their computers need to perform some computing that could increase the size of the data stored in RAM. You may recognize this error from those times when your R session ended with the message “R Session Aborted”. At VU, IT gives researchers access to two different computing servers that offer plenty of RAM memory: (a) JupyterHub (up to 260 GB), and (b) the High Performance Computer (up to 240 GB).
 
 ### JupyterHub
 
@@ -48,8 +39,7 @@ According to IT:
 > environments to choose from, you can focus on your tasks instead of
 > troubleshooting workspace issues.” <https://hub.compute.vu.nl/>.
 
-JupyterHub provides users with up to 260 GB of RAM. VU IT provides three
-possible servers to use (Figure 2).
+JupyterHub provides users with up to 260 GB of RAM. VU IT provides three possible servers to use (Figure 2).
 
 &lt;Figure 2 about here: JupyterHub servers run by VU IT for Research.
 Screenshot from <https://hub.compute.vu.nl/> taken on January 21st,
