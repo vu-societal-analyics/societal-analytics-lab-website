@@ -7,7 +7,7 @@ bodyClass: page-about
 
 The Societal Analytics Lab aims to be the first point of contact for those interested in applying computational methods in their social science research.
 
-![The Lab](/images/ID981-4200x5000.jpg)
+![The Lab](https://images.unsplash.com/vector-1741203969096-deda346274e8?q=80&w=2050&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ## Objectives
 
