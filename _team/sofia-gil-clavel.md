@@ -3,7 +3,7 @@ title: "Sofia Gil-Clavel"
 date: 2018-12-20T13:44:30+10:00
 image: "https://research.vu.nl/files-asset/369047881/SofiaGilClavel.jpg?w=160&f=webp"
 jobtitle: "Lab Manager/Researcher"
-linkedinurl: ""
+linkedinurl: "https://sofiag1l.github.io/"
 promoted: true
 weight: 3
 ---

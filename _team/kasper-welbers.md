@@ -3,7 +3,7 @@ title: "Kasper Welbers"
 date: 2018-11-19T10:47:58+10:00
 image: "https://avatars.githubusercontent.com/u/6179240?s=400&u=bc62bb664986df4c700fdc68fc3539ca0893a0f8&v=4"
 jobtitle: "Lab Co-Director"
-linkedinurl: "https://www.linkedin.com/"
+linkedinurl: "https://research.vu.nl/en/persons/kasper-welbers"
 promoted: true
 weight: 2
 ---
