@@ -28,7 +28,7 @@ Source: This image was created with the assistance of DALL·E 3, in January 22, 
 
 The [Societal Analytics Lab](https://www.societal-analytics.nl/) works together with the IT for Research department to help lab members access hardware and software. We aim to help VU researchers face three common issues related with computing power: 1) insufficient RAM, 2) insufficient storage memory, and 3) lack of GPUs.
 
-## Insufficient RAM
+## Insufficient RAM 
 
 According to our last survey, researchers commonly report insufficient RAM as something that constraints their work. Many desktop and laptop computers are ill equipped to open and handle large data sets when using common statistical software. Researchers can run into trouble when their computers need to perform some computing that could increase the size of the data stored in RAM. You may recognize this error from those times when your R session ended with the message “R Session Aborted”. At VU, IT gives researchers access to two different computing servers that offer plenty of RAM memory: (a) JupyterHub (up to 260 GB), and (b) the High Performance Computer (up to 240 GB).
 
@@ -68,6 +68,8 @@ Once a server and environment are chosen then you can access specific software (
 If you need more memory and computing power, then you can use the VU High Performance Computer managed by BAZIS [link](https://bazis.readthedocs.io/en/latest/). However, to use this computing server you need to know how to use the terminal and how to schedule your tasks using SSH files. If this is not the case, then you can contact us <analytics-lab.fsw@vu.nl>, we can help you. In terms of computing power, the High Performance Computer has 7 GPU nodes with 240GB RAM memory and 32 cores for general use. As VU employee, you can request access to the High Performance Computer [here](https://services.vu.nl/esc?id=sc_cat_item&table=sc_cat_item&sys_id=83139c79473e8150bfa46d72e36d432e).
 
 ## Insufficient storage memory
+
+[Back to Index](#helping-lab-members-to-access-hardware-and-software)
 
 The second commonly faced problem is lack of storage memory. This
 problem is common among people aiming to store large data sets.
