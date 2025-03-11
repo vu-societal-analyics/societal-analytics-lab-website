@@ -3,6 +3,10 @@ title: About
 layout: page
 description: About
 bodyClass: page-about
+intro_image: "/images/ID981-4200x5000.jpg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
+show_call_box: true
 ---
 
 The Societal Analytics Lab aims to be the first point of contact for those interested in applying computational methods in their social science research.
