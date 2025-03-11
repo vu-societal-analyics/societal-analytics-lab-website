@@ -18,8 +18,7 @@ Source: This image was created with the assistance of DALL·E 3, in January 22, 
         -   [High Performance Computer](#high-performance-computer-1)
     -   [3) Lack of GPUs](#lack-of-gpus)
         -   [High Performance Computer](#high-performance-computer-2)
-        -   [Computing server of the Societal Analytics
-            Lab](#computing-server-of-the-societal-analytics-lab)
+        -   [Computing server of the Societal Analytics Lab](#computing-server-of-the-societal-analytics-lab)
 
 
 The [Societal Analytics Lab](https://www.societal-analytics.nl/) works together with the IT for Research department to help lab members access hardware and software. We aim to help VU researchers face three common issues related with computing power: 1) insufficient RAM, 2) insufficient storage memory, and 3) lack of GPUs.
