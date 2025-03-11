@@ -9,17 +9,19 @@ Written by Sofia Gil-Clavel.
 
 Source: This image was created with the assistance of DALL·E 3, in January 22, 2025.
 
--   [Index](#constrained-by-computing-power-we-can-help-you)
-    -   [1) Insufficient RAM](#insufficient-ram)
-        -   [JupyterHub](#jupyterhub)
-        -   [High Performance Computer](#high-performance-computer)
-    -   [2) Insufficient storage memory](#insufficient-storage-memory)
-        -   [JupyterHub](#jupyterhub-1)
-        -   [High Performance Computer](#high-performance-computer-1)
-    -   [3) Lack of GPUs](#lack-of-gpus)
-        -   [High Performance Computer](#high-performance-computer-2)
-        -   [Computing server of the Societal Analytics Lab](#computing-server-of-the-societal-analytics-lab)
-
+-   [Insufficient RAM](#insufficient-ram)
+    -   [JupyterHub](#jupyterhub)
+    -   [High Performance Computer](#high-performance-computer)
+-   [Insufficient storage memory](#insufficient-storage-memory)
+    -   [JupyterHub](#jupyterhub-1)
+        -   [a. You can create a directory in “/local/data/<VUNetID>”.](#a.-you-can-create-a-directory-in-localdata.)
+        -   [b. Place your dataset there using SSH/SFTP.](#b.-place-your-dataset-there-using-sshsftp.)
+        -   [c. Make sure that there is enough space](#c.-make-sure-that-there-is-enough-space)
+        -   [d. Every first day of the month, the directories are moved to /local/.old](#d.-every-first-day-of-the-month-the-directories-are-moved-to-local.old)
+    -   [High Performance Computer](#high-performance-computer-1)
+-   [Lack of GPUs](#lack-of-gpus)
+    -   [High Performance Computer](#high-performance-computer-2)
+    -   [Computing server of the Societal Analytics Lab](#computing-server-of-the-societal-analytics-lab)
 
 The [Societal Analytics Lab](https://www.societal-analytics.nl/) works together with the IT for Research department to help lab members access hardware and software. We aim to help VU researchers face three common issues related with computing power: 1) insufficient RAM, 2) insufficient storage memory, and 3) lack of GPUs.
 
