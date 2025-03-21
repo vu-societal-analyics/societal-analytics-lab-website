@@ -17,5 +17,5 @@ We try to offer at least one of them per month. If you do not want to miss them,
 
 To become a member, you just need to fill out the form (you need to log-in with your VU credentials):
 
-https://forms.office.com/e/8Bgd2YsasJ 
+[https://forms.office.com/e/8Bgd2YsasJ](https://forms.office.com/e/8Bgd2YsasJ)
 

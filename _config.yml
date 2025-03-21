@@ -22,6 +22,9 @@ collections:
     sort_by: weight
   team:
     output: true
+  events:
+    output: true
+    sort_by: date
   blogs:
     output: true
     sort_by: date
