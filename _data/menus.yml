@@ -8,7 +8,7 @@ main:
   - name: "About"
     url: "/about/"
     weight: 4
-  - name: "Events"
+  - name: "Event"
     url: "/events/"
     weight: 5
   - name: "Blog"
