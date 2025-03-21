@@ -9,12 +9,5 @@ intro_image_hide_on_mobile: true
 
 # Events 
 
-Here you can find all the e 
+Here you can find all the info about our upcoming and last events.
 
-Every month, we will upload posts about: 
-
- How to use VU IT infrastructure
-
- Good-to-know information regarding our tools
-
- And more! 
