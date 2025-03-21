@@ -39,6 +39,11 @@ defaults:
       layout: "team"
   - scope:
       path: ""
+      type: "events"
+    values:
+      layout: "event"
+  - scope:
+      path: ""
       type: "blogs"
     values:
       layout: "blog"
