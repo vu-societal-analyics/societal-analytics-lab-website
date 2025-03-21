@@ -9,5 +9,11 @@ intro_image_hide_on_mobile: true
 
 # Events 
 
+From movie screenings to talks and workshops!
+
 Here you can find all the info about our upcoming and last events.
+
+We try to offer at least one of them per month. If you do not want to miss them, make sure to become a member:
+
+https://forms.office.com/e/8Bgd2YsasJ 
 
