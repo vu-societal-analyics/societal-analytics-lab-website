@@ -12,7 +12,7 @@ The Societal Analytics Lab offers a range of services for VU FSW researchers, an
 Our main goal is to facilitate the use of big multimodal data and methods stemming from machine learning:   
 
 <p align="center">
-  <img src="/images/CompMethPipeline.png" />
+  <img src="/images/illustrations/CompMethPipeline.png" />
 </p>
 
 
@@ -27,13 +27,13 @@ For this, we have acquired our computing server, in which we have safely stored 
 You can check more info in the presentation you gave during the Lab tools introduction event [here](/images/events/LabTool_Online.pdf).
 
 <p align="center">
-  <img src="/images/OurOwn_seso.png" />
+  <img src="/images/illustrations/OurOwn_seso.png" />
 </p>
 
 This way, researchers can focus on research rather than acquiring infrastructure:
 
 <p align="center">
-  <img src="/images/CompMethPipeline_tools.png" />
+  <img src="/images/illustrations/CompMethPipeline_tools.png" />
 </p>
 
 
