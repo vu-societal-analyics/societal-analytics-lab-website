@@ -24,7 +24,7 @@ For this, we have acquired our computing server, in which we have safely stored 
 * [OpenWeb-UI + Ollama](https://docs.openwebui.com/): They open-source projects that serve as powerful and user-friendly platforms to run Large Language Models.
 * [Prodigy](https://prodi.gy/): Prodigy is an efficient annotation and training tool that enables entity recognition, detection, image classification, and more!
 
-You can check more info in the presentation you gave during the Lab tools introduction event [here](/images/events/LabTool_Online.pdf).
+You can check more info in the [presentation](/images/events/LabTool_Online.pdf) we gave during the Lab tools introduction [event](https://societal-analytics.nl/events/20250519_talk/).
 
 <p align="center">
   <img src="/images/illustrations/OurOwn_seso.png" />
