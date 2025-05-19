@@ -9,7 +9,7 @@ Whether it's software for manual annotation or GPU-driven computing for automati
 
 The Societal Analytics Lab offers a range of services for VU FSW researchers, and is involved in the development and maintenance of various digital infrastructure projects.
 
-Our main goal is to facilitate the use of big multimodal data and methods stemming from machine learning:   
+Our main goal is to facilitate the use of big multimodal data and computational methods:   
 
 <p align="center">
   <img src="/images/illustrations/CompMethPipeline.png" />
