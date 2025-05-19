@@ -278,6 +278,17 @@ computing, then you will need to use GPUs. As VU employee, you have
 access to the High Performance Computer, and as Societal Analytics Lab
 member, you have access to our own specialized computing server.
 
+### JupyterHub
+
+Since May 2025, JupyterHub also allows to run code using their GPUs!
+
+To use them, you just need to access JupyterHub and from there you can use python.
+We recomend to set-up a conda environment, that way you would not mess up with
+other people's python configuration.
+
+To do so, the JupyterHub team offers some guide in their manuals. You can access
+them by typing `man vu-compute` in the terminal.
+
 ### High Performance Computer
 
 If you need GPUs, then you can use the VU High Performance Computer
