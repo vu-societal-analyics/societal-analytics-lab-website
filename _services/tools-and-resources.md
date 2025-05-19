@@ -40,4 +40,4 @@ This way, researchers can focus on research rather than acquiring infrastructure
 
 
 
-Some icons are property of the companies stated or come from https://www.flaticon.com/.
+Icons are property of the companies stated or come from https://www.flaticon.com/.
