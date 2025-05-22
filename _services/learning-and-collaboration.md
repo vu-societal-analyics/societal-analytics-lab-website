@@ -15,7 +15,7 @@ At the societal analytics lab we aim to serve as a nexus for connecting various 
 
 Our goal is to help social scientists acquire important computing skills. 
 
-We know that in contemporary academia, scientists have little time to invest in learning something new! Therefore, we offer three options: [Collaboration](#Collaboration), [R-Material](#R-Material), and [R-Workshops](#R-Workshops).
+We know that in contemporary academia, scientists have little time to invest in learning something new! Therefore, we offer three options: [Collaboration](#collaboration), [R Material](#r-material), and [R Workshops](#r-workshops).
 
 <p align="center">
   <img src="/images/illustrations/Comp_Knowledge.png" />
@@ -28,14 +28,14 @@ If you find yourself in need of an expert opinion or support on a particular top
 
 We would like to foster a collaboration network where we and other Lab members can speed-up science by exchanging ideas, knowledge, and skills.
 
-## R-Material
+## R Material
 
 We maintain a repository with R course material, on topics ranging from data wrangling to text analysis and advanced statistics. Feel free to use this material as you please, and to contact us for any questions or requests.
 
 This material was initially developed by [Wouter van Atteveldt](https://societal-analytics.nl/team/wouter-van-atteveldt/) and [Kasper Welbers](https://societal-analytics.nl/team/kasper-welbers/), but nowadays is also maintained by other Lab members. You can find all the information here: [R course material](https://github.com/ccs-amsterdam/r-course-material/tree/master)
 
 
-## R-Workshops
+## R Workshops
 
 We offer R-workshops specially designed for social scientists. They were developed by [Sofia Gil-Clavel](https://societal-analytics.nl/team/sofia-gil-clavel/), who has many years of experience teaching R to demographers and social scientists from different backgrounds (qualitative and quantitative).
 
