@@ -30,9 +30,14 @@ We would like to foster a collaboration network where we and other Lab members c
 
 ## R Material
 
-We maintain a repository with R course material, on topics ranging from data wrangling to text analysis and advanced statistics. Feel free to use this material as you please, and to contact us for any questions or requests.
+We maintain a repository and a book with R course material. The topics range from data wrangling to text analysis and advanced statistics. Feel free to use them as you please, and to contact us for any questions or requests.
 
-This material was initially developed by [Wouter van Atteveldt](https://societal-analytics.nl/team/wouter-van-atteveldt/) and [Kasper Welbers](https://societal-analytics.nl/team/kasper-welbers/), but nowadays is also maintained by other Lab members. You can find all the information here: [R course material](https://github.com/ccs-amsterdam/r-course-material/tree/master)
+The material was initially developed by [Wouter van Atteveldt](https://societal-analytics.nl/team/wouter-van-atteveldt/) and [Kasper Welbers](https://societal-analytics.nl/team/kasper-welbers/), but nowadays is also maintained by other Lab members. 
+
+You can find all the information here: 
+
+* [R course material](https://github.com/ccs-amsterdam/r-course-material/tree/master)
+* [Communication Science R Book](https://vu-communication-science.github.io/R-canon/)
 
 
 ## R Workshops
