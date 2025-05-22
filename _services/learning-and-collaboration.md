@@ -47,3 +47,8 @@ You can find all the course information [here](https://github.com/SofiaG1l/R_Cou
 
 
 
+
+
+
+
+Icons come from https://www.flaticon.com/.
