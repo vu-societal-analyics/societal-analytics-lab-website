@@ -15,12 +15,11 @@ At the societal analytics lab we aim to serve as a nexus for connecting various 
 
 Our goal is to help social scientists acquire important computing skills. 
 
-We know that in contemporary academia, scientists have little time to invest in learning something new! Therefore, we offer three options:
+We know that in contemporary academia, scientists have little time to invest in learning something new! Therefore, we offer three options:collaboration,R-Material, and R-Workshops.
 
-1. Collaboration
-2. R-Material
-3. R-Workshop
-
+<p align="center">
+  <img src="/images/illustrations/Comp_Knowledge.png" />
+</p>
 
 
 ## Collaboration
