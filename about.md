@@ -7,7 +7,9 @@ bodyClass: page-about
 
 The Societal Analytics Lab aims to be the first point of contact for those interested in applying computational methods in their social science research.
 
-![The Lab](https://images.unsplash.com/vector-1741203969096-deda346274e8?q=80&w=2050&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+<p align="center">
+  <img src="/images/illustrations/CompMethPipeline.png" />
+</p>
 
 ## Objectives
 
@@ -33,10 +35,16 @@ We want to foster research that fits the digital society that we live in, specif
 
 ## What we do:
 
-* Tools & Resources: From manual annotation to GPU-driven computing for text/image processing, we've got you covered!
+* [Tools & Resources](https://societal-analytics.nl/services/tools-and-resources/): From manual annotation to GPU-driven computing for text/image processing, we've got you covered!
+<p align="center">
+  <img src="/images/illustrations/OurOwn_seso.png" />
+</p>
 
-* Learning & Collaboration: We promote knowledge exchange and foster global connections by offering talks, workshops, and hackatons.
+* [Learning & Collaboration](https://societal-analytics.nl/services/learning-and-collaboration/): We promote knowledge exchange and foster global connections by offering talks, workshops, and hackatons.
+<p align="center">
+  <img src="/images/illustrations/Comp_Knowledge.png" />
+</p>
 
-* Grants and research proposals: We can help you foster your research proposal by adding computational methods. Talk to us for ideas and infrastructure support.
+* [Grants & research proposals](https://societal-analytics.nl/services/grants-and-researchproposals/): We can help you foster your research proposal by adding computational methods. Talk to us for ideas and infrastructure support.
 
 
