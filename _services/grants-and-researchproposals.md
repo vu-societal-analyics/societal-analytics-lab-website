@@ -16,3 +16,5 @@ Ways in which we could be of service:
 * Providing feedback on feasibility and formulation
 
 * Vowing to support the research with resources and expertise
+
+Please, keep in mind that if you need more than just a one time meeting, then you would have to acknowledge the Lab and/or the lab member that is helping you. This depends on the amount of time we invest and it can go from just writing a line in the acknowledgments section to adding the person as co-author.
