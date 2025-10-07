@@ -18,7 +18,7 @@ Our main goal is to facilitate the use of big multimodal data and computational 
 
 For this, we have acquired our computing server, in which we have safely stored popular tools: 
 
-* [AmCAT](https://open.amcat.nl/): AmCAT makes it easy to upload, analyze, and sample big data. You keep full control over your data, you can share it, keep it closed, and export it when needed.
+* [AmCAT](/images/events/AmCAT_MEDEM.pdf): AmCAT makes it easy to upload, analyze, and sample big data. You keep full control over your data, you can share it, keep it closed, and export it when needed.
 * [Whisper](https://openai.com/index/whisper/): Whisper is an automatic speech recognition system. It enables transcription in multiple languages, as well as translation from those languages into English. 
 * [LIWC](https://www.liwc.app/): LIWC is the gold standard in software for analyzing word use. It can be used to study a single individual, groups of people over time, or all of social media.
 * [OpenWeb-UI + Ollama](https://docs.openwebui.com/): They open-source projects that serve as powerful and user-friendly platforms to run Large Language Models.
