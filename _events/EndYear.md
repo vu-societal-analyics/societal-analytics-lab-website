@@ -23,7 +23,7 @@ Wrapping up 2025 at the Societal Analytics Lab
 ## Coded Bias
 
 <div style="text-align: justify"> 
-The documentary Coded Bias explores how artificial intelligence can inherit and amplify human biases. It follows MIT researcher Joy Buolamwini, who discovered that facial recognition systems often failed to detect her face, unless she wore a white mask—revealing racial and gender bias in these technologies.  The film argues that AI lacks proper legal regulation, allowing discrimination in areas such as employment, housing, healthcare, credit, education, and law enforcement.  Buolamwini and her team testified before the U.S. Congress and later founded the Algorithmic Justice League to advocate for ethical AI.  This documentary exposes how biased algorithms can harm minorities and shape critical life outcomes through automated decisions.
+The documentary Coded Bias explores how artificial intelligence can inherit and amplify human biases. It follows MIT researcher Joy Buolamwini, who discovered that facial recognition systems often failed to detect her face, unless she wore a white mask, revealing racial and gender bias in these technologies.  The film argues that AI lacks proper legal regulation, allowing discrimination in areas such as employment, housing, healthcare, credit, education, and law enforcement.  Buolamwini and her team testified before the U.S. Congress and later founded the Algorithmic Justice League to advocate for ethical AI.  This documentary exposes how biased algorithms can harm minorities and shape critical life outcomes through automated decisions.
   
 </div>
 
