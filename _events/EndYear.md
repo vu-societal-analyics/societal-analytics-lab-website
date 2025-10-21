@@ -15,7 +15,7 @@ Wrapping up 2025 at the Societal Analytics Lab
 ## Itinerary and locations
 
 * 14:00 - 14:15 hrs [movie room – VU NU]: Reception
-* 14:15 - 15:30 hrs [movie rooms – VU NU]: Movie Coded Biased. Commented at the end by <TBA>
+* 14:15 - 15:30 hrs [movie rooms – VU NU]: Movie Coded Bias. Commented at the end by <TBA>
 * 15:30 - 16:00 hrs [NU-3A47]: Break
 * 16:00 - 17:30 hrs [NU-3A47]: Presentation of what the Societal Analytics Lab did during the year.
 * 17:30 - 18:00 hrs [NU-Lobby Campus Square]: Drinks
