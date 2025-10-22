@@ -1,5 +1,5 @@
 ---
-title: "Funding for buying or annotating data "
+title: "Funding for buying or annotating data 2025"
 date: 2025-10-21T12:33:46+10:00
 ---
 
@@ -29,7 +29,7 @@ Applicants need to fill out the [submission template](#submission-template-and-o
 
 Once the form is filled out, applicants must send the form as an attachment to the Societal Analytics Lab [analytics-lab.fsw@vu.nl](mailto:analytics-lab.fsw@vu.nl?subject=Data%20Grant%20Application) with the **subject “Data Grant Application”. The emails must be sent by the main applicant**, i.e. the researcher affiliated with the Faculty of Social Sciences at Vrije Universiteit Amsterdam and who is already a member of the Societal Analytics Lab. 
 
-The call for applications opens the moment this call is published and it closes on December 31st 24:59 hrs (CET). So, **submit your application before December 31st 24:59 hrs (CET).**
+The call for applications opens the moment this call is published and it closes on December 31st, 2025, 24:59 hrs (CET). So, **submit your application before December 31st, 2025, 24:59 hrs (CET).**
 
 # Evaluation procedure and final results
 
