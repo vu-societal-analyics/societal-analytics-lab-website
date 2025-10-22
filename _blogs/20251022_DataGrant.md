@@ -45,7 +45,7 @@ The main points to evaluate are:
 
 # Final outputs
 
-At the end of the project, applicants need to submit a final report on how the grant was used. The report should also include links to: where the data or labeled data was archived or stored, and any possible working papers or peer-reviewed publications that resulted from the project. The report should be published before October 31st, 2026. 
+At the end of the project, applicants need to submit a final report on how the grant was used. The report should also include links to: where the data or labeled data was archived or stored, and any possible working papers or peer-reviewed publications that resulted from the project (remember to acknowledge the Societal Analytics Laboratory as a funder). The report should be published before October 31st, 2026. 
 
 # Submission template and other important info
 
