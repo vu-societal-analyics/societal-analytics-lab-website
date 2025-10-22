@@ -43,7 +43,7 @@ The main points to evaluate are:
 * Clarity of the proposal and research plan.
 * Feasibility of the plan and timetable.
 
-**The Societal Analytics Lab will announce the selected projects on the February Newsletter**, i.e. at the latest the second week of February.
+**The Societal Analytics Lab will announce the selected projects on the February 2025 Newsletter**, i.e. at the latest the second week of February 2025.
 
 # Final outputs
 
