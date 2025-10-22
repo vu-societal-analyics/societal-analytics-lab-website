@@ -3,8 +3,6 @@ title: "Funding for buying or annotating data 2025"
 date: 2025-10-21T12:33:46+10:00
 ---
 
-![Societal Analytics Lab logo](/images/logo/logo.svg)
-
 The Societal Analytics Lab invites all the Lab members affiliated to the Faculty of Social Sciences at Vrije University Amsterdam to **apply for funding for buying or annotating data.** **The Lab will allocate up to 15,000EUR in grants that require up to 5000EUR.** This could be many small grants or three grants of 5000EUR.
 
 -   [Index:](#data-and-data-labeling-grant)
