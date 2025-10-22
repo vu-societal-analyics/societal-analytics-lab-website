@@ -25,7 +25,7 @@ Proposals can only be submitted once, if this is done more than once then we wil
 
 # Application procedure and important deadlines
 
-Applicants need to fill out the [submission template](#submission-template-and-other-important-info). Applicants need to promise that the resulting data and/or labeled data will be archived as FAIR and as open as possible, and that its documentation will follow the [Datasheets for datasets | Communications of the ACM guidelines](https://dl.acm.org/doi/10.1145/3458723).
+Applicants need to fill out the [submission template](#submission-template-and-other-important-info). Applicants need to promise that the resulting data and/or labeled data will be archived as FAIR and as open as possible, and that its documentation will follow the [Datasheets for datasets](https://dl.acm.org/doi/10.1145/3458723).
 
 Once the form is filled out, applicants must send the form as an attachment to the Societal Analytics Lab [analytics-lab.fsw@vu.nl](mailto:analytics-lab.fsw@vu.nl?subject=Data%20Grant%20Application) with the **subject “Data Grant Application”. The emails must be sent by the main applicant**, i.e. the researcher affiliated with the Faculty of Social Sciences at Vrije Universiteit Amsterdam and who is already a member of the Societal Analytics Lab. 
 
