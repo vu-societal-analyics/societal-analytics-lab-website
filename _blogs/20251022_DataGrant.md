@@ -55,5 +55,5 @@ The **submission template can be downloaded [here](/images/blog/DataGrant_2025/A
 
 **The email must be sent by the main applicant**, i.e. the researcher affiliated with the Faculty of Social Sciences at Vrije Universiteit Amsterdam and who is already a member of the Societal Analytics Lab. 
 
-**Format: max. 2 A4 pages, font : Arial 11 pt., line distance 1. Proposals deviating from the requested format may not be considered.**
+**Format:** max. 2 A4 pages, font : Arial 11 pt., line distance 1. **Proposals deviating from the requested format may not be considered.**
 
