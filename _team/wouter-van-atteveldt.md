@@ -1,7 +1,7 @@
 ---
 title: "Wouter van Atteveldt"
 date: 2018-11-19T10:47:58+10:00
-image: "https://research.vu.nl/files-asset/22705903/Dr._Wouter_van_Atteveldt_tcm250_36346.jpg?w=160&f=webp"
+image: "https://vanatteveldt.com/images/wouter_van_atteveldt.png"
 jobtitle: "Lab Director"
 linkedinurl: "https://vanatteveldt.com/"
 promoted: true
