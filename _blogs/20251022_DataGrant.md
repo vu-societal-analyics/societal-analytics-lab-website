@@ -25,7 +25,7 @@ Proposals can only be submitted once, if this is done more than once then we wil
 
 Applicants need to fill out the [submission template](#submission-template-and-other-important-info). Applicants need to promise that the resulting data and/or labeled data will be archived as FAIR and as open as possible, and that its documentation will follow the [Datasheets for datasets](https://dl.acm.org/doi/10.1145/3458723).
 
-Once the form is filled out, applicants must submit the pdf via this link: [https://vuamsterdam.eu.qualtrics.com/jfe/form/SV_eamywWLBTxZgx2C](https://vuamsterdam.eu.qualtrics.com/jfe/form/SV_eamywWLBTxZgx2C).
+Once the form is filled out, applicants must submit the pdf via this link: [https://vuamsterdam.eu.qualtrics.com/jfe/form/SV_a9qAaogdeFiLg3k](https://vuamsterdam.eu.qualtrics.com/jfe/form/SV_a9qAaogdeFiLg3k).
 
 The call for applications opens the moment this call is published and it closes on December 31st, 2025, 24:59 hrs (CET). So, **submit your application before December 31st, 2025, 24:59 hrs (CET).**
 
@@ -49,9 +49,9 @@ At the end of the project, applicants need to submit a final report on how the g
 
 # Submission template and other important info
 
-The **submission template can be downloaded [here](/images/blog/DataGrant_2025/ApplicationFromDataLabelGrant_SAL_2025.docx)**, **applicants must applicants must submit the pdf via this link: [https://vuamsterdam.eu.qualtrics.com/jfe/form/SV_eamywWLBTxZgx2C](https://vuamsterdam.eu.qualtrics.com/jfe/form/SV_eamywWLBTxZgx2C).**
+The **submission template can be downloaded [here](/images/blog/DataGrant_2025/ApplicationFromDataLabelGrant_SAL_2025.docx)**, **applicants must applicants must submit the pdf via this link: [https://vuamsterdam.eu.qualtrics.com/jfe/form/SV_a9qAaogdeFiLg3k](https://vuamsterdam.eu.qualtrics.com/jfe/form/SV_a9qAaogdeFiLg3k).**
 
-**The submission must be done by the main applicant**, i.e. the researcher affiliated with the Faculty of Social Sciences at Vrije Universiteit Amsterdam and who is already a member of the Societal Analytics Lab. 
+**The submission must be done by the main applicant**, i.e. the researcher affiliated with the Faculty of Social Sciences at Vrije Universiteit Amsterdam and who is already a member of the Societal Analytics Lab. **The submission should not contain any information that may disclose the id of the applicants.**
 
 **Format:** max. 2 A4 pages, font : Arial 11 pt., line distance 1. **Proposals deviating from the requested format may not be considered.**
 
