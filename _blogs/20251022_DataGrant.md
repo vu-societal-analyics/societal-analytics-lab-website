@@ -31,7 +31,11 @@ The call for applications opens the moment this call is published and it closes 
 
 # Evaluation procedure and final results
 
-The proposals will be examined by the two directors of the Societal Analytics Lab and two independent members of VU (TBA): one member of the library and a data savvy member from a different faculty. 
+The proposals will be examined by the two directors of the Societal Analytics Lab and two independent members of VU: 
+
+* Mona Katharina Wallraff (Knowledge Valorisation Officer, VU)
+* Charles Greene (Scientific Information Specialist, VU Library)
+
 
 The main points to evaluate are:
 
