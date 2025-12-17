@@ -1,26 +1,26 @@
 ---
-title: "Event: Lab's End-Year"
+title: "The New Year Event"
 date: 2025-10-21
 ---
 
-Wrapping up 2025 at the Societal Analytics Lab.
+Come and learn all what the Lab accomplished during 2026.
 
-**For the Societal Analytics Lab accountability is a core value.** Therefore, **during the Lab’s end-year event we will present all what we have done and accomplished during the year 2025.** But hey, a celebration is not complete without some fun activities! So, besides the presentation, we will also screen the movie “Coded Bias” and finalize the event with drinks. 
+**For the Societal Analytics Lab accountability is a core value.** Therefore, **during the New Year event, we will present all what we have done and accomplished during the year 2025.** But hey, a celebration is not complete without some fun activities! So, besides the presentation, we will also screen the movie “Coded Bias” and finalize the event with drinks. 
 
-**When:** December 4th between 14:00 and 18:00 hrs.
+**When:** February 10th between 15:00 and 18:00 hrs.
 
-**Where:**  with final drinks at NU-Lobby Campus Square.
+**Where:**  MF-D146-(ATRIUM)
 
 **Register:** [https://forms.office.com/e/ngSzBUj5mK](https://forms.office.com/e/ngSzBUj5mK). **You MUST register.** This helps us allocate resources.
 
 
 ## Itinerary and locations
 
-* 14:00 - 14:15 hrs [VU NU]: Reception
-* 14:15 - 15:30 hrs [VU NU]: Presentation of what the Societal Analytics Lab did during the year. 
-* 15:30 - 16:00 hrs [VU NU]: Break
-* 16:00 - 17:30 hrs [VU NU]: Movie Coded Bias. **We only have 80 seats, so first-come-first-served applies.**
-* 17:30 - 18:00 hrs [VU NU]: Drinks
+* 14:50 - 15:00 hrs [ATRIUM]: Reception
+* 15:00 - 16:00 hrs [ATRIUM]: Presentation of what the Societal Analytics Lab did during 2025. 
+* 16:00 - 16:15 hrs [ATRIUM]: Break
+* 16:15 - 17:45 hrs [ATRIUM]: Movie Coded Bias. **We only have 100 seats, so first-come-first-served applies.**
+* 17:45 - 19:00 hrs [ATRIUM]: Drinks
 
 ## Coded Bias
 
