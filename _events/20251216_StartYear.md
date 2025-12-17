@@ -1,6 +1,6 @@
 ---
 title: "The New Year Event"
-date: 2025-10-21
+date: 2025-12-16
 ---
 
 Come and learn all what the Lab accomplished during 2025.
