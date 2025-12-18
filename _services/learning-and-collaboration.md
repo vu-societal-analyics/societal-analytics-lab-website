@@ -44,10 +44,10 @@ You can find all the information here:
 
 We offer R-workshops specially designed for social scientists. They were developed by [Sofia Gil-Clavel](https://societal-analytics.nl/team/sofia-gil-clavel/), who has many years of experience teaching R to demographers and social scientists from different backgrounds (qualitative and quantitative).
 
-You can find all the course information [here](https://github.com/SofiaG1l/R_Course/tree/master/R4SocialScientists).
+You can find all the course information [here](https://github.com/SofiaG1l/R_Course/).
 
 <p align="center">
-  <img src="https://github.com/SofiaG1l/R_Course/blob/master/WorkshopBuildUp.png" />
+  <img src="https://raw.githubusercontent.com/SofiaG1l/R_Course/refs/heads/master/WorkshopBuildUp.png" />
 </p>
 
 
