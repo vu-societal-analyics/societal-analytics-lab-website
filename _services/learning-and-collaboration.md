@@ -47,7 +47,7 @@ We offer R-workshops specially designed for social scientists. They were develop
 You can find all the course information [here](https://github.com/SofiaG1l/R_Course/tree/master/R4SocialScientists).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SofiaG1l/R_Course/master/R4SocialScientists/WorkshopBuildUp.png" />
+  <img src="https://github.com/SofiaG1l/R_Course/blob/master/WorkshopBuildUp.png" />
 </p>
 
 
