@@ -5,7 +5,7 @@ date: 2025-12-16
 
 Come and learn all what the Lab accomplished during 2025.
 
-**For the Societal Analytics Lab accountability is a core value.** Therefore, **during the New Year event, we will present all what we have done and accomplished during the year 2025.** But hey, a celebration is not complete without some fun activities! So, besides the presentation, we will also screen the movie “Coded Bias” and finalize the event with drinks. 
+**For the Societal Analytics Lab accountability is a core value.** Therefore, **during the New Year event, we will present all what we have done and accomplished during the year 2025 [link to report](/images/events/2025_Report_SocietalAnalyticsLab_online.pdf).** But hey, a celebration is not complete without some fun activities! So, besides the presentation, we will also screen the movie “Coded Bias” and finalize the event with drinks. 
 
 **When:** February 10th between 15:00 and 18:00 hrs.
 
