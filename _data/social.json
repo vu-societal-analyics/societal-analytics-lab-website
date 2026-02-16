@@ -10,6 +10,11 @@
     "image": "images/social/bsky.svg"
   },
   {
+    "name": "Linkedin",
+    "link": "https://www.linkedin.com/company/societal-analytics-lab",
+    "image": "images/social/linkedin.svg"
+  },
+  {
       "name": "Email",
       "link": "mailto:analytics-lab.fsw@vu.nl",
       "image": "images/social/email.svg"
