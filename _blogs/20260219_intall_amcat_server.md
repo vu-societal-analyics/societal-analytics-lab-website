@@ -29,14 +29,14 @@ Written by Jana Bernhard-Harrer and Sofia Gil-Clavel.
 
 1. check which ubunto version you have to know which Docker you need: `cat /etc/os-release` 
 2. go to: https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository and follow the instructions 
-   ==i did not copy/paste the commands here because that fucked up my formating==
+
 	1. set up Docker's apt repository 
 	  *Side Note:* `apt` is like `conda install` 
 	2. install the latest Docker packages
 	3. check if the Docker is running with: 
 	  `sudo systemctl status docker` 
 	4. verify that the installation is successful 
-3. in case you need to delete a Docker you need to follow a few steps:
+	3. in case you need to delete a Docker you need to follow a few steps:
 	1. first get the names / ids of all the dockers with `sudo docker ps`
 	2. then stop the dockers: `sudo docker stop -nameofdocker-`
 	3. then remove the containers: `sudo docker rm -nameofdocker-`
