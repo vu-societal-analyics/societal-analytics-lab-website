@@ -7,9 +7,8 @@ Written by Jana Bernhard-Harrer and Sofia Gil-Clavel.
 
 -   [Index:](#install-amcat-in-your-own-server)
     -   [Step 1: Connect to your server and log in](#step-1-connect-to-your-server-and-log-in)
-    -   [Step 2: Open a port to/from your server](#step2-open-a-port-to-from-your-server)
-    -   [Step 3: Install Docker](#step-3-install-docker)
-    -   [Step 4: Install AmCAT](#step-4-install-amcat)
+    -   [Step 2: Install Docker](#step-3-install-docker)
+    -   [Step 3: Install AmCAT](#step-4-install-amcat)
 
 
 # Install AmCAT in your own server
@@ -18,38 +17,25 @@ Written by Jana Bernhard-Harrer and Sofia Gil-Clavel.
 
 `ssh <username>@<serveraddress>`
 
-## Step 2: Open a port to/from your server (*so that it can communicate with the outside world*)
+## Step 2: Install Docker (we will use this to install AmCAT)
 
-`sudo iptables -I OUTPUT -j ACCEPT`
-`sudo ip6tables -I OUTPUT -j ACCEPT`
-
-*Side Note:* sudo tells the server that you have admin rights. 
-
-## Step 3: Install Docker (we will use this to install AmCAT)
-
-1. check which ubunto version you have to know which Docker you need: `cat /etc/os-release` 
+1. check which Ubuntu version you have to know which Docker you need: `cat /etc/os-release` 
 2. go to: https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository and follow the instructions 
 
 	1. set up Docker's apt repository 
-	  *Side Note:* `apt` is like `conda install` 
+	  *Side Note:* `apt` installs linux system packages the same way `conda install` installs python packages.
 	2. install the latest Docker packages
 	3. check if the Docker is running with: 
 	  `sudo systemctl status docker` 
+	  *Side Note:* sudo tells the server that you have admin rights. 
 	4. verify that the installation is successful 
-	3. in case you need to delete a Docker you need to follow a few steps:
-	1. first get the names / ids of all the dockers with `sudo docker ps`
-	2. then stop the dockers: `sudo docker stop -nameofdocker-`
-	3. then remove the containers: `sudo docker rm -nameofdocker-`
-	4. then prune everything: `sudo docker system prune --volumes`
-	5. then get the ids for the images: `sudo docker image ls`
-	6. then delete the images: `sudo docker rmi -idofimage-`
-	  *Side Note:* This is important: You need to do this for all Dockers & Images because otherwise they will just take up space on your server.
+	3. in case you need to delete a Docker you need to follow the steps in [Extra: In case the Docker installation was not succesful](#extra-in-case-the-docker-installation-was-not-succesful).
 
-## Step 4: Install AmCAT
+## Step 3: Install AmCAT
 
 1. go to: https://github.com/ccs-amsterdam/amcat4docker 
 2. decide which of the AmCAT Versions you want and download the correct docker file (Options include: the stable, the newest or one you can make available through the internet.) We go forward with one that can be made available through the internet. 
-3. create a directory where AmCAT can life on your server and go there
+3. create a directory where AmCAT can live on your server and go there
    `mkdir amcat && cd amcat`
 4. load the right dockerfile. For us:
    `wget https://raw.githubusercontent.com/ccs amsterdam/amcat4docker/main/docker-compose-https.yml`
@@ -68,6 +54,16 @@ Written by Jana Bernhard-Harrer and Sofia Gil-Clavel.
 	2. give it permission 
 	3. decide whether you want to add your email or not
 10. you are done :) 
+
+## Extra: In case the Docker installation was not succesful
+
+1. first get the names / ids of all the dockers with `sudo docker ps`
+2. then stop the dockers: `sudo docker stop -nameofdocker-`
+3. then remove the containers: `sudo docker rm -nameofdocker-`
+4. then prune everything: `sudo docker system prune --volumes`
+5. then get the ids for the images: `sudo docker image ls`
+6. then delete the images: `sudo docker rmi -idofimage-`
+  *Side Note:* This is important: You need to do this for all Dockers & Images because otherwise they will just take up space on your server.
 
 
 [Back to top](#install-amcat-in-your-own-server)
