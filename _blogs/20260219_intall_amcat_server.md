@@ -24,12 +24,10 @@ Written by Jana Bernhard-Harrer and Sofia Gil-Clavel.
 2. go to: https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository and follow the instructions 
 
 	1. set up Docker's apt repository 
-	
 	  *Side Note:* `apt` installs linux system packages the same way `conda install` installs python packages.
 	2. install the latest Docker packages
 	3. check if the Docker is running with: 
 	  `sudo systemctl status docker` 
-	  
 	  *Side Note:* sudo tells the server that you have admin rights. 
 	4. verify that the installation is successful 
 	3. in case you need to delete a Docker you need to follow the steps in [Extra: In case the Docker installation was not succesful](#extra-in-case-the-docker-installation-was-not-succesful).
@@ -66,7 +64,6 @@ Written by Jana Bernhard-Harrer and Sofia Gil-Clavel.
 4. then prune everything: `sudo docker system prune --volumes`
 5. then get the ids for the images: `sudo docker image ls`
 6. then delete the images: `sudo docker rmi -idofimage-`
-
   *Side Note:* This is important: You need to do this for all Dockers & Images because otherwise they will just take up space on your server.
 
 
