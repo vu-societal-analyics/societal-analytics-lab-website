@@ -36,9 +36,9 @@ Written by Jana Bernhard-Harrer and Sofia Gil-Clavel.
 
 1. Go to: https://github.com/ccs-amsterdam/amcat4docker.
 2. Decide which of the AmCAT Versions you want and download the correct docker file (Options include: the stable, the newest, or one you can make available through the internet.) We go forward with one that can be made available through the internet. 
-3. Create a directory where AmCAT can live on your server and go there. You can choose to do it via:
-   * `git clone https://github.com/ccs-amsterdam/amcat4docker`
-   * `mkdir amcat && cd amcat`
+3. Create a directory where AmCAT can live on your server and go there. You can choose one of the following ways:
+   * `mkdir amcat && cd amcat`.
+   * `git clone https://github.com/ccs-amsterdam/amcat4docker`. This one should create this folder and download all the yml files there in one step, with the added bonus of being able to update later if the dockerfile changes
 4. load the right dockerfile. For us:
    `wget https://raw.githubusercontent.com/ccs amsterdam/amcat4docker/main/docker-compose-https.yml`
 5. install nano if you do not have a textedit program. For this you can use `sudo apt nano`.
