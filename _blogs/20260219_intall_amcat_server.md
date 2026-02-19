@@ -20,7 +20,7 @@ Written by Jana Bernhard-Harrer and Sofia Gil-Clavel.
 
 ## Step 2: Install Docker (we will use this to install AmCAT)
 
-1. Check which Ubuntu version you have to know which Docker you need: `cat /etc/os-release` .
+1. Check which Ubuntu version you have to know which Docker you need: `cat /etc/os-release` 
 2. Go to: https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository and follow the instructions.
 
 	1. Set up Docker's apt repository.
@@ -34,14 +34,14 @@ Written by Jana Bernhard-Harrer and Sofia Gil-Clavel.
 
 ## Step 3: Install AmCAT
 
-1. Go to: https://github.com/ccs-amsterdam/amcat4docker.
+1. Go to: https://github.com/ccs-amsterdam/amcat4docker
 2. Decide which of the AmCAT Versions you want and download the correct docker file (Options include: the stable, the newest, or one you can make available through the internet.) We go forward with one that can be made available through the internet. 
 3. Create a directory where AmCAT can live on your server and go there. You can choose one of the following ways:
-   * `mkdir amcat && cd amcat`.
-   * `git clone https://github.com/ccs-amsterdam/amcat4docker`. This one should create this folder and download all the yml files there in one step, with the added bonus of being able to update later if the dockerfile changes
+   * `mkdir amcat && cd amcat`
+   * `git clone https://github.com/ccs-amsterdam/amcat4docker` This one should create this folder and download all the yml files there in one step, with the added bonus of being able to update later if the dockerfile changes
 4. load the right dockerfile. For us:
    `wget https://raw.githubusercontent.com/ccs amsterdam/amcat4docker/main/docker-compose-https.yml`
-5. install nano if you do not have a textedit program. For this you can use `sudo apt nano`.
+5. install nano if you do not have a textedit program. For this you can use `sudo apt nano`
 6. run `nano docker-compose-https.yml` and add a name and the website where you want to host amcat. 
 7. then spin up the docker containers with:
    `docker-compose -f docker-compose-https.yml up --pull="missing" -d` 
