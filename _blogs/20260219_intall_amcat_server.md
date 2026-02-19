@@ -20,28 +20,28 @@ Written by Jana Bernhard-Harrer and Sofia Gil-Clavel.
 
 ## Step 2: Install Docker (we will use this to install AmCAT)
 
-1. check which Ubuntu version you have to know which Docker you need: `cat /etc/os-release` 
-2. go to: https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository and follow the instructions 
+1. Check which Ubuntu version you have to know which Docker you need: `cat /etc/os-release` .
+2. Go to: https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository and follow the instructions.
 
-	1. set up Docker's apt repository 
+	1. Set up Docker's apt repository.
 	  *Side Note:* `apt` installs linux system packages the same way `conda install` installs python packages.
-	2. install the latest Docker packages
-	3. check if the Docker is running with: 
+	2. Install the latest Docker packages.
+	3. Check if the Docker is running with: 
 	  `sudo systemctl status docker` 
 	  *Side Note:* sudo tells the server that you have admin rights. 
-	4. verify that the installation is successful 
-	3. in case you need to delete a Docker you need to follow the steps in [Extra: In case the Docker installation was not succesful](#extra-in-case-the-docker-installation-was-not-succesful).
+	4. Verify that the installation is successful 
+	3. In case you need to delete a Docker you need to follow the steps in [Extra: In case the Docker installation was not succesful](#extra-in-case-the-docker-installation-was-not-succesful).
 
 ## Step 3: Install AmCAT
 
-1. go to: https://github.com/ccs-amsterdam/amcat4docker 
-2. decide which of the AmCAT Versions you want and download the correct docker file (Options include: the stable, the newest, or one you can make available through the internet.) We go forward with one that can be made available through the internet. 
-3. create a directory where AmCAT can live on your server and go there
-   `mkdir amcat && cd amcat`
+1. Go to: https://github.com/ccs-amsterdam/amcat4docker.
+2. Decide which of the AmCAT Versions you want and download the correct docker file (Options include: the stable, the newest, or one you can make available through the internet.) We go forward with one that can be made available through the internet. 
+3. Create a directory where AmCAT can live on your server and go there. You can choose to do it via:
+   * `git clone https://github.com/ccs-amsterdam/amcat4docker`
+   * `mkdir amcat && cd amcat`
 4. load the right dockerfile. For us:
    `wget https://raw.githubusercontent.com/ccs amsterdam/amcat4docker/main/docker-compose-https.yml`
-5. install nano if you do not have a textedit program:
-	1. for this you can use `sudo apt nano`
+5. install nano if you do not have a textedit program. For this you can use `sudo apt nano`.
 6. run `nano docker-compose-https.yml` and add a name and the website where you want to host amcat. 
 7. then spin up the docker containers with:
    `docker-compose -f docker-compose-https.yml up --pull="missing" -d` 
