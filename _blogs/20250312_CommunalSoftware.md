@@ -1,18 +1,18 @@
 ---
-title: "Funding for buying or annotating data 2025"
+title: "Communal Software"
 date: 2026-03-11T12:33:46+10:00
 ---
 
 The Societal Analytics Lab invites all the Lab members interested in acquiring software to do so via our Communal Software budget (up to 500 EUR per year in total).
 
 -   [Index:](#data-and-data-labeling-grant)
-    -   [To be eligible to apply for this grant](#to-be-eligible-to-apply-for-this-grant)
+    -   [To be eligible to apply](#to-be-eligible-to-apply)
     -   [Application procedure and important deadlines](#application-procedure-and-important-deadlines)
     -   [Evaluation procedure](#evaluation-procedure)
     -   [Submission template and other important info](#submission-template-and-other-important-info)
 
 
-# To be eligible to apply for this grant
+# To be eligible to apply
 
 The applicant needs to be a researcher affiliated with the Faculty of Social Sciences at Vrije Universiteit Amsterdam and be already a member of the Societal Analytics Lab. You can become a member here: [https://societal-analytics.nl/contact/](https://societal-analytics.nl/contact/). 
 
