@@ -1,5 +1,5 @@
 ---
-title: "Communal Software"
+title: "Communal Budget to Acquire Software"
 date: 2026-03-11T12:33:46+10:00
 ---
 
