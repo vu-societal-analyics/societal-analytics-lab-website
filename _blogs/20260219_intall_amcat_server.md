@@ -34,26 +34,21 @@ Written by Jana Bernhard-Harrer and Sofia Gil-Clavel.
 
 ## Step 3: Install AmCAT
 
-1. Go to: https://github.com/ccs-amsterdam/amcat4docker
-2. Decide which of the AmCAT Versions you want and download the correct docker file (Options include: the stable, the newest, or one you can make available through the internet.) We go forward with one that can be made available through the internet. 
-3. Create a directory where AmCAT can live on your server and go there. You can choose one of the following ways:
-   * `mkdir amcat && cd amcat`
-   * `git clone https://github.com/ccs-amsterdam/amcat4docker` This one should create this folder and download all the yml files there in one step, with the added bonus of being able to update later if the dockerfile changes
-4. load the right dockerfile. For us:
-   `wget https://raw.githubusercontent.com/ccs amsterdam/amcat4docker/main/docker-compose-https.yml`
-5. install nano if you do not have a textedit program. For this you can use `sudo apt nano`
-6. run `nano docker-compose-https.yml` and add a name and the website where you want to host amcat. 
-7. then spin up the docker containers with:
-   `docker-compose -f docker-compose-https.yml up --pull="missing" -d` 
-8. to check if it is running you can run:
-	1. `sudo docker ps` -> see if it is there
-	2. `curl localhost` -> check amcat frontend 
-	3. `curl localhost/amcat/` -> check amcat backend
-9. we also want it to be secure (https) so we also run the following:
-   `docker exec -it ngincat certbot --nginx -d medem.amcat.eu -d amcat.medem.eu` This will open an editable file where you: 
-	1. enter your email
-	2. give it permission 
-	3. decide whether you want to add your email or not
+1. go to: https://github.com/ccs-amsterdam/amcat4docker/blob/caddy/README.md and follow the instructions: 
+2. Clone the git repository with `git clone https://github.com/ccs-amsterdam/amcat4docker` 
+3. and then move into the newly created folder: `cd amcat4docker`
+4. launch (read: start) the docker with `sudo docker compose up -d` this might take a bit, but after you can check
+5. with `curl localhost/amcat` if it worked. The output for this command should be an html code and if you go to your browser and type http://localhost it should show AmCAT
+6. to configure AmCAT to your needs you need to modify the .env file.
+	1. navigate to your amcat4docker folder and  `cp .env.example .env` to copy the example environment they provided
+	2. run `nano .env` to be able to write into the file. 
+	3. look at the example environment here: https://github.com/ccs-amsterdam/amcat4docker/blob/caddy/.env.example and change all the things that need changing. 
+		1. this means: look at all the commands that are un-commented. They need input from you! 
+		2. then go though all the commented settings and check whether the default settings are ok. 
+			1. if the default settings are ok, leave them commented-out
+			2. if you change them, you need to un-comment them.
+7. check in your browser if anything works! 
+
 10. you are done :) 
 
 ## Extra: In case the Docker installation was not succesful
