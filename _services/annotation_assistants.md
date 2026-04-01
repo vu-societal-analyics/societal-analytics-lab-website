@@ -14,7 +14,7 @@ Did you ever wondered how memes shape political narratives online? We are seekin
 # Details
 
 - 10 h/week (0.25FTE)
-- 1 Month (15-05-2026 to 15-06-2026)
+- 2 Months (15-05-2026 to 15-07-2026)
 - [Political Communication and Computational Methods group](https://vu.nl/nl/over-de-vu/faculteiten/school-der-sociale-wetenschappen/meer-over/onderzoek-van-de-afdeling-communicatiewetenschap)
 
 # Tasks
