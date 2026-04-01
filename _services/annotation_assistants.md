@@ -1,10 +1,10 @@
 ---
-title: "Vacancy: Research Assistant – Political Meme Annotation for AI Benchmarking"
+title: "Vacancy: Research Assistant"
 date: 2026-04-01
 weight: 7
 ---
 
-Vacancy: Research Assistant – Political Meme Annotation for AI Benchmarking
+Political Meme Annotation for AI Benchmarking
 <!--more-->
 
 # Overview 
