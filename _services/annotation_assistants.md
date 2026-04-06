@@ -9,7 +9,7 @@ Political Meme Annotation for AI Benchmarking
 
 # Overview 
 
-Did you ever wondered how memes shape political narratives online? We are seeking 3 research assistants to join the project "A Benchmark for Structured Understanding of Social Identities and Narrative Roles in Political Memes". You will be working with an existing team of three researchers (two professors and a PhD) to help us develop a computational benchmark that improves the modelling of narrative elements in political memes, enhancing our understanding of this communication phenomenon. Specifically, you will be responsible for annotating a provided dataset with a set of predefined labels. Want to know more? Our framework is available here: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6432282](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6432282)
+Did you ever wonder how memes shape political narratives online? We are seeking 3 research assistants to join the project "A Benchmark for Structured Understanding of Social Identities and Narrative Roles in Political Memes". You will be working with an existing team of three researchers (two professors and a PhD) to help us develop a computational benchmark that improves the modelling of narrative elements in political memes, enhancing our understanding of this communication phenomenon. Specifically, you will be responsible for annotating a provided dataset with a set of predefined labels. Want to know more? Our framework is available here: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6432282](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6432282)
 
 # Details
 
