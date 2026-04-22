@@ -5,6 +5,8 @@ date: 2026-03-11T12:33:46+10:00
 
 Tired of looking for a way to safely share, search, and analyze research data? 
 
+👩🏽‍💻 Given by: [Sofia Gil-Clavel](https://sofiag1l.github.io/).
+
 📅 April 23rd between 9:30 and 12:30 hrs.
 
 📍 119 Seminar Room, Teaching and Learning Building, University of Birmingham.
